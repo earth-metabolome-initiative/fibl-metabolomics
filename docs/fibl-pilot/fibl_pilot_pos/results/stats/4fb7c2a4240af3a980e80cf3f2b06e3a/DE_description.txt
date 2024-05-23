@@ -1,0 +1,8 @@
+A "DatasetExperiment" object
+----------------------------
+name:          FIBL Pilot pos LCMS metabolomics dataset
+The data has been pareto scaled
+description:   FIBL Pilot pos LCMS metabolomics dataset
+data:          14 rows x 3472 columns
+sample_meta:   14 rows x 177 columns
+variable_meta: 3472 rows x 152 columns

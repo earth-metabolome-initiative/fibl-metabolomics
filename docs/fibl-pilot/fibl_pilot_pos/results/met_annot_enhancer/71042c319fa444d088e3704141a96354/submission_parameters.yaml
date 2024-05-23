@@ -1,0 +1,25 @@
+create_time: 2024-05-23 04:00:47 PDT-0700
+description: FBMN_fibl_pos
+featurefindingtool: MZMINE
+fragment_tolerance: '0.1'
+input_libraries: LIBRARYLOCATION/LC/LIBRARY
+input_raw_spectra: ''
+input_supplemental_edges: ''
+inputfeatures: USERUPLOAD/pmallard/EMI/FIBL/fibl_pilot/fibl_pilot_pos_quant.csv
+inputspectra: USERUPLOAD/pmallard/EMI/FIBL/fibl_pilot/fibl_pilot_pos.mgf
+library_analog_search: '0'
+library_min_cosine: '0.7'
+library_min_matched_peaks: '6'
+library_topk: '1'
+metadata_filename: USERUPLOAD/pmallard/EMI/FIBL/fibl_pilot/fibl_pilot_pos_metadata.tsv
+min_peak_intensity: '0.0'
+networking_max_shift: '1999'
+networking_min_cosine: '0.7'
+networking_min_matched_peaks: '6'
+normalization: None
+pm_tolerance: '0.1'
+precursor_filter: 'yes'
+task: 71042c319fa444d088e3704141a96354
+window_filter: 'yes'
+workflow_version: SERVER:0.1.2;WORKFLOW:2024.05.20
+workflowname: feature_based_molecular_networking_workflow

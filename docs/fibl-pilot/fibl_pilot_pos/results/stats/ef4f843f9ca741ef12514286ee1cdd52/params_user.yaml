@@ -1,0 +1,8 @@
+paths:
+  docs: '/Users/pma/Dropbox/git_repos/COMMONS_Lab/EMI/fibl-metabolomics/docs'
+  output: '/Users/pma/Dropbox/git_repos/COMMONS_Lab/EMI/fibl-metabolomics/docs/fibl-pilot/fibl_pilot_pos/results/stats' # Not mandatory, default is in the stats subdirectory
+
+operating_system:
+  system: unix # 
+  pandoc: "C:/Program Files/RStudio/resources/app/bin/quarto/bin/tools" ### only for windows
+

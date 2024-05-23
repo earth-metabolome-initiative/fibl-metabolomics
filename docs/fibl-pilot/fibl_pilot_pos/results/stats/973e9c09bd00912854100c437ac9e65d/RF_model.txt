@@ -1,0 +1,23 @@
+An rfPermute model
+
+               Type of random forest: classification 
+                     Number of trees: 500 
+No. of variables tried at each split: 8 
+       No. of permutation replicates: 500 
+                          Start time: 2024-05-23 15:25:16 
+                            End time: 2024-05-23 15:25:27 
+                            Run time: 10.1 secs 
+
+                                          biodynamique
+biodynamique                                         9
+conventional purely mineral fertilization            3
+Overall                                             NA
+                                          conventional purely mineral fertilization
+biodynamique                                                                      0
+conventional purely mineral fertilization                                         5
+Overall                                                                          NA
+                                          pct.correct LCI_0.95 UCI_0.95
+biodynamique                                    100.0     66.4    100.0
+conventional purely mineral fertilization        62.5     24.5     91.5
+Overall                                          82.4     56.6     96.2
+

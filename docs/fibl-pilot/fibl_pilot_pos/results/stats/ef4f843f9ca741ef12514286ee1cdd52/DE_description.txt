@@ -1,0 +1,7 @@
+A "DatasetExperiment" object
+----------------------------
+name:          FIBL Pilot pos LCMS metabolomics dataset
+description:   FIBL Pilot pos LCMS metabolomics dataset
+data:          116 rows x 5667 columns
+sample_meta:   116 rows x 177 columns
+variable_meta: 5667 rows x 152 columns
